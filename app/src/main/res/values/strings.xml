@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stgeorg</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Journals</string>
+    <string name="action_settings2">Settings</string>
+    <string name="tab1">journal</string>
+    <string name="tab2">userlist</string>
+    <string name="tab3">queue</string>
+    <string name="tab4">setting_db</string>
+    <string name="tab5">Days_log</string>
+    <string name="tab6">Add</string>
+
+</resources>
